@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Winner(yes, that's my actual name) from Ghana. I'm a Computer Science student at the Kwame Nkrumah University of Science and Technology. I'm quite new to the whole programming thing but I do my best(maybe more) to know my way around stuff.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=winner14)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **winner14/winner14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
