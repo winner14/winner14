@@ -4,7 +4,7 @@
 I'm Winner(yes, that's my actual name😂) from Ghana🇬🇭. I'm a Computer Science student at the Kwame Nkrumah University of Science and Technology. I'm quite new to the whole programming thing but I do my best(sometimes more) to know my way around stuff. 
 Programming is fun!😅
 
-Skills: C++ / JAVA / PYTHON / HTML / CSS / JS / REACT NATIVE
+Skills: C++ / JAVA / PYTHON / HTML / CSS / VISUAL BASIC / MYSQL / JS / REACT NATIVE
 
 - 🔭 I’m currently working on a website(for fun). 
 - 🌱 I’m currently learning JavaScript. 
