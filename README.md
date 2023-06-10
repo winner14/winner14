@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-I'm Winner(yes, that's my actual name😂) from Ghana🇬🇭. I'm a Computer Science student at the Kwame Nkrumah University of Science and Technology. I think being able to do something I once found difficult or impossible is one of the best things in the world. Hence, learning is my favourite activity. 
+I'm Winner 
 
 Skills: C++ / JAVA / PYTHON / HTML / CSS / VISUAL BASIC / MYSQL / JS / REACT NATIVE / FLUTTER
 
